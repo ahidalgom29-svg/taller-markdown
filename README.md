@@ -35,10 +35,5 @@ git commit -m "Actualización de README."
 > Todo funciona
 
 
-	
-##### Imagen externa como enlace
-
-[(https://picsum.photos/200)(https://informatica.iesalbarregas.com/my/)]
-
 <!-- Comentario propio -->
 
