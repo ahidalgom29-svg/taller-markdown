@@ -23,6 +23,7 @@
 	git status
 	git add README.md
 	git commit -m "Actualización de README."
+	```
 
 #### Enlace
 
@@ -30,7 +31,7 @@
 	
 ##### Imagen externa como enlace
 
-	[https://picsum.photos/200]
+	https://picsum.photos/200](https://github.com)
 
 <!-- Comentario propio -->
 
