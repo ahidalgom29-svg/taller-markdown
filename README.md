@@ -8,8 +8,8 @@ Voy a poner **elementos** que ya hemos *aprendido*
 
 ### Listas
 
--Git
--GitHub
+- Git
+- GitHub
 
 1. Markdown
 
@@ -23,7 +23,7 @@ Voy a poner **elementos** que ya hemos *aprendido*
 git status
 git add README.md
 git commit -m "Actualización de README."
-	```
+```
 
 #### Enlace
 
