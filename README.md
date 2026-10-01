@@ -31,7 +31,7 @@ git commit -m "Actualización de README."
 	
 ##### Imagen externa como enlace
 
-![Imagen][https://picsum.photo/200](https://github.com)
+[![Imagen](https://picsum.photos/200)thub.com)
 
 <!-- Comentario propio -->
 
